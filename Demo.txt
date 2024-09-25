@@ -1,3 +1,6 @@
 Some text in the demo file.
 
 hello
+
+Additional text.
+
