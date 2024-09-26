@@ -4,4 +4,8 @@ hello
 
 Additional text.
 
+<<<<<<< HEAD
 Faiza was here
+=======
+Faiza was here...
+>>>>>>> 8e45be4 (i added "...")
