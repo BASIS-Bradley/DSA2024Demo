@@ -1,5 +1,6 @@
 Some text in the demo file.
 
+<<<<<<< HEAD
 qwofjnoqwifhqowrufhqwilfughqwefmqw
 e]f [.qe\]f
 Qercf
@@ -12,3 +13,8 @@ R g
 Tgv
 T44'pvp94unp 
 
+=======
+hello
+
+Kabir is here (in perpetuity, try using the watch command on git push --force)
+>>>>>>> 7689c93f80c42f47c38dcb1efe348baaccd8a204
