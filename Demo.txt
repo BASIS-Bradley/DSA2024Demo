@@ -1,20 +1,3 @@
 Some text in the demo file.
 
-<<<<<<< HEAD
-qwofjnoqwifhqowrufhqwilfughqwefmqw
-e]f [.qe\]f
-Qercf
-E
-V
-Wergtv
-R g
-
-4btbytojypotubypmtmig'w;tv
-Tgv
-T44'pvp94unp 
-
-=======
-hello
-
-Kabir is here (in perpetuity, try using the watch command on git push --force)
->>>>>>> 7689c93f80c42f47c38dcb1efe348baaccd8a204
+Asausaisnj dhsdhksdhalks sa'ds;od 
