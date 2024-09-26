@@ -2,6 +2,7 @@
 <<<<<<< HEAD
 hello
 
+<<<<<<< HEAD
 
 Additional text.
 
@@ -11,6 +12,7 @@ Faiza was here
 Faiza was here...
 >>>>>>> 8e45be4 (i added "...")
 =======
+<<<<<<< HEAD
 <<<<<<< HEAD
 Asausaisnj dhsdhksdhalks sa'ds;od 
 =======
@@ -23,3 +25,9 @@ Diya was here
 
 >>>>>>> 9fe0105 (Faiza added "Diya was here")
 >>>>>>> 341ee93 (Faiza added "Diya was here")
+=======
+Kabir is here (in perpetuity, try using the watch command on git push --force)
+
+Samihah was here
+>>>>>>> 60bb478 (i added "Samihah was here")
+>>>>>>> 12d805d (i added "Samihah was here")
