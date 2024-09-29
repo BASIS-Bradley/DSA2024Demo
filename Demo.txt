@@ -1,5 +1,36 @@
-Some text in the demo file.
 
+<<<<<<< HEAD
+hello
+
+<<<<<<< HEAD
+
+Additional text.
+
+<<<<<<< HEAD
+Faiza was here
+=======
+Faiza was here...
+>>>>>>> 8e45be4 (i added "...")
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Asausaisnj dhsdhksdhalks sa'ds;od 
+=======
 hello
 
 Additional text.
+<<<<<<< HEAD
+=======
+
+Diya was here
+
+
+>>>>>>> 9fe0105 (Faiza added "Diya was here")
+>>>>>>> 341ee93 (Faiza added "Diya was here")
+=======
+Kabir is here (in perpetuity, try using the watch command on git push --force)
+
+Samihah was here
+>>>>>>> 60bb478 (i added "Samihah was here")
+>>>>>>> 12d805d (i added "Samihah was here")
+>>>>>>> de7d56716ba0a7c15ca586b2c3ae54b884db5fa9
